@@ -27,10 +27,10 @@
 
 ## Process Involved
 
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Data Cleaning
+- Univariate Analysis
+- Segmented Univariate Analysis
+- Bivariate Analysis
 
 ## Contact
 
