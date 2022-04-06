@@ -1,6 +1,6 @@
 # Lending Club Case Study
 
-> Outline a brief description of your project.
+> Group Case Study [Upgrad]
 
 ## Table of Contents
 
