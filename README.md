@@ -1,52 +1,37 @@
-# Project Name
+# Lending Club Case Study
+
 > Outline a brief description of your project.
 
-
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
+- [General Info](#general-information)
+- [Packages Used](#packages-used)
+- [Process Involved](#process-involved)
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+> The case study is prepared for a Financial Institution called "Lending Club" based in USA which provides loan to the end consumers. As it always happens in most lending institution, Many are good loans whereas some are the bad loans. Few people tends to default their loan and not make timely payment or no payment at all to the organization.
 
-## Conclusions
+> This Case study is being prepared by putting ownself on the shoes of the person who is responsible for the approval and disbursement of the loan to the consumer. When a consumers comes and asks for a loan, we need to analyse past data and decide accordingly whether the person will be willing to pay back the loan in the future.
+
+> We should also not decline all the loan as it may cause the loss of business whereas accepting all the loans will increase probability of having more number of defaulters. To make the decision more accurate and precise, we will be analysing almost 40000 rows and 111 columns of the data.
+
+> All the rows and columns will not be required and also may result in irrelevancy in the decision, thus, we will find out such data and remove them accordingly.
+
+## Packages Used
+
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
+
+## Process Involved
+
 - Conclusion 1 from the analysis
 - Conclusion 2 from the analysis
 - Conclusion 3 from the analysis
 - Conclusion 4 from the analysis
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
 ## Contact
-Created by [@githubusername] - feel free to contact me!
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+Created by [@ankitshah1910] and [@shahanandnp] - feel free to contact us!
